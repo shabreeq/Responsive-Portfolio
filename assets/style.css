@@ -1,0 +1,29 @@
+.navbar{
+  background-color: #eb8f90;
+  color: #adbed2;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.nav-link{
+  color: #12406a;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  float: right;
+  position: relative;
+  right: 20px;
+  bottom: 40px;
+ 
+   
+}
+
+#home-btn{
+  margin-left: 10px;
+  font-size: 50px;
+  color: #12406a;
+  font-family: 'Montserrat', sans-serif;
+ 
+}
